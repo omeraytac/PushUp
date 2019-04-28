@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
 
     public void test(int t){
         int a = t*t;
+        String str = "sogood";
     }
 }
